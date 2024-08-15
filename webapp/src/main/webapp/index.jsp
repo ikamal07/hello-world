@@ -3,7 +3,7 @@
     <h1>Register Here</h1>
     <p>Please fill in this  jkasdkhj  form to create an account.</p>
     <hr>
-    <label for="name"><b>Name</b></label>
+    <label for="name"><b>What is your Name</b></label>
     <input type="text" placeholder="Enter Your Name" name="name" id="name" required>
     <br>
     <label for="age"><b>Age</b></label>
