@@ -6,11 +6,11 @@
     <label for="name"><b>What is your Name</b></label>
     <input type="text" placeholder="Enter Your Name" name="name" id="name" required>
     <br>
-    <label for="age"><b>Age</b></label>
-    <input type="text" placeholder="Enter Your Age" name="age" id="age" required>
+    <label for="age"><b>iiiiiiAge</b></label>
+    <input type="text" placeholder="Enter Your Ageiiiiii" name="age" id="age" required>
     <br>	
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Emaili id</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
